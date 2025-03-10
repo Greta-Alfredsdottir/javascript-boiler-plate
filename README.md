@@ -1,2 +1,2 @@
-# javascriptboilerplait
-javarscriptboilerplait.css
+# javascriptboilerplate
+javarscriptboilerplate.css
